@@ -1,5 +1,6 @@
 {
   "name": "ai-se_project_mesh-ai",
+  "part": "1",
   "version": "1.0.0",
   "description": "MeshAI backend - stubbed Express + TypeScript API",
   "main": "index.js",
